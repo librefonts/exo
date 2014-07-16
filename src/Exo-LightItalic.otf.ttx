@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="2.4">
+  <GlyphOrder src="Exo-LightItalic.otf.GlyphOrder.ttx"/>
+  <head src="Exo-LightItalic.otf._h_e_a_d.ttx"/>
+  <hhea src="Exo-LightItalic.otf._h_h_e_a.ttx"/>
+  <maxp src="Exo-LightItalic.otf._m_a_x_p.ttx"/>
+  <OS_2 src="Exo-LightItalic.otf.O_S_2f_2.ttx"/>
+  <name src="Exo-LightItalic.otf._n_a_m_e.ttx"/>
+  <cmap src="Exo-LightItalic.otf._c_m_a_p.ttx"/>
+  <post src="Exo-LightItalic.otf._p_o_s_t.ttx"/>
+  <CFF src="Exo-LightItalic.otf.C_F_F_.ttx"/>
+  <FFTM src="Exo-LightItalic.otf.F_F_T_M_.ttx"/>
+  <GDEF src="Exo-LightItalic.otf.G_D_E_F_.ttx"/>
+  <GPOS src="Exo-LightItalic.otf.G_P_O_S_.ttx"/>
+  <GSUB src="Exo-LightItalic.otf.G_S_U_B_.ttx"/>
+  <hmtx src="Exo-LightItalic.otf._h_m_t_x.ttx"/>
+</ttFont>
