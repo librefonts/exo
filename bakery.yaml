@@ -1,0 +1,10 @@
+commit: HEAD
+license_file: OFL.txt
+process_files: [Exo-ExtraBoldItalic.ttf.ttx, Exo-ThinItalic.ttf.ttx, Exo-Bold.ttf.ttx,
+  Exo-Black.ttf.ttx, Exo-BoldItalic.ttf.ttx, Exo-SemiBoldItalic.ttf.ttx, Exo-LightItalic.ttf.ttx,
+  Exo-Medium.ttf.ttx, Exo-SemiBold.ttf.ttx, Exo-Light.ttf.ttx, Exo-BlackItalic.ttf.ttx,
+  Exo-Regular.ttf.ttx, Exo-ExtraLightItalic.ttf.ttx, Exo-Italic.ttf.ttx, Exo-Thin.ttf.ttx,
+  Exo-ExtraBold.ttf.ttx, Exo-ExtraLight.ttf.ttx, Exo-MediumItalic.ttf.ttx]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin, latin-ext]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
